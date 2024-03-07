@@ -24,3 +24,4 @@ docker-compose up
 ```bash
 python3 own_home_assignment.py
 ```
+* Go to http://localhost:5601/ and use user name admin with the above password to login
